@@ -1,0 +1,11 @@
+{
+  "name": "homework-one",
+  "version": "1.0.0",
+  "description": "This is my first homework",
+  "main": "index.js",
+  "scripts": {
+    "serve": "live-server"
+  },
+  "author": "Tyler Goodall",
+  "license": "ISC"
+}
